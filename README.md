@@ -33,17 +33,15 @@
 
 -----------------
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+<p> 
     <!-- <img src="https://github-profile-trophy.vercel.app/?username=service-paradis&theme=onedark" alt="Alexandre Paradis" /> -->
     <img src="https://github-profile-trophy.vercel.app/?username=service-paradis&theme=onedark&title=PullRequest,Commit,Issues" alt="Alexandre Paradis" />
-  </a> 
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=service-paradis&theme=onedark&count_private=true&show_icons=true&locale=en" alt="Alexandre Paradis" />
+  <img src="https://github-readme-stats.vercel.app/api?username=service-paradis&theme=onedark&count_private=true&show_icons=true&locale=en" alt="Alexandre Paradis" />
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=service-paradis&theme=onedark&count_private=true&show_icons=true&langs_count=10&locale=en&layout=compact&exclude_repo=plugin.image.thechive" alt="Alexandre Paradis" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=service-paradis&theme=onedark&count_private=true&show_icons=true&langs_count=10&locale=en&layout=compact&exclude_repo=plugin.image.thechive" alt="Alexandre Paradis" />
 </p>
 
 -----------------
@@ -128,3 +126,8 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
   </a>
 </p>
+
+---------
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
