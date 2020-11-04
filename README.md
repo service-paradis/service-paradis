@@ -1,4 +1,5 @@
 <p>
+  <img src="assets/banner.png" alt="Alexandre Paradis" /> 
 </p>
 
 <h1 align="center">
