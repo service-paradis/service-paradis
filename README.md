@@ -1,3 +1,7 @@
+
+[![Years Badge](https://badges.pufler.dev/years/service-paradis)](https://github.com/service-paradis)
+[![Updated Badge](https://badges.pufler.dev/updated/service-paradis/service-paradis)](https://github.com/service-paradis)
+
 <p>
   <img src="assets/banner.png" alt="Alexandre Paradis" /> 
 </p>
@@ -27,12 +31,22 @@
 </p>
 -->
 
+-----------------
+
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <!-- <img src="https://github-profile-trophy.vercel.app/?username=service-paradis&theme=onedark" alt="Alexandre Paradis" /> -->
     <img src="https://github-profile-trophy.vercel.app/?username=service-paradis&theme=onedark&title=PullRequest,Commit,Issues" alt="Alexandre Paradis" />
   </a> 
 </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=service-paradis&theme=onedark&count_private=true&show_icons=true&locale=en" alt="Alexandre Paradis" />
+</p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=service-paradis&theme=onedark&count_private=true&show_icons=true&langs_count=10&locale=en&layout=compact&exclude_repo=plugin.image.thechive" alt="Alexandre Paradis" />
+</p>
+
+-----------------
 
 <h3 align="left">
   Some languages and Tools I like to use:
@@ -113,12 +127,4 @@
   <a href="https://webpack.js.org" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
   </a>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=service-paradis&theme=onedark&count_private=true&show_icons=true&locale=en" alt="Alexandre Paradis" />
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=service-paradis&theme=onedark&count_private=true&show_icons=true&langs_count=10&locale=en&layout=compact&exclude_repo=plugin.image.thechive" alt="Alexandre Paradis" />
 </p>
