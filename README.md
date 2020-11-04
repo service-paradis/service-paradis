@@ -10,9 +10,15 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Alexandre%20Paradis-d14836?logo=gmail&logoColor=ffffff&link=mailto:service.paradis@gmail.com" alt="Alexandre Paradis" />
-  <img src="https://img.shields.io/badge/-Alexandre%20Paradis-0077b5?logo=linkedin&link=https://linkedin.com/in/alexandre-paradis" alt="Alexandre Paradis" />
-  <img src="https://img.shields.io/badge/-Alexandre%20Paradis-fe7a16?logo=stackoverflow&logoColor=ffffff&link=https://stackoverflow.com/users/2774496/service-paradis" alt="Alexandre Paradis" />
+  <a href="mailto:service.paradis@gmail.com">
+    <img src="https://img.shields.io/badge/-Alexandre%20Paradis-d14836?logo=gmail&logoColor=ffffff&link=mailto:service.paradis@gmail.com" alt="Alexandre Paradis" />
+  </a> 
+  <a href="https://linkedin.com/in/alexandre-paradis" target="_blank">
+    <img src="https://img.shields.io/badge/-Alexandre%20Paradis-0077b5?logo=linkedin&link=https://linkedin.com/in/alexandre-paradis" alt="Alexandre Paradis" />
+  </a> 
+  <a href="https://stackoverflow.com/users/2774496/service-paradis" target="_blank">
+    <img src="https://img.shields.io/badge/-Alexandre%20Paradis-fe7a16?logo=stackoverflow&logoColor=ffffff&link=https://stackoverflow.com/users/2774496/service-paradis"  alt="Alexandre Paradis" />
+  </a>
 </p>
 
 <!-- 
@@ -22,7 +28,7 @@
 -->
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <!-- <img src="https://github-profile-trophy.vercel.app/?username=service-paradis&theme=onedark" alt="Alexandre Paradis" /> -->
     <img src="https://github-profile-trophy.vercel.app/?username=service-paradis&theme=onedark&title=PullRequest,Commit,Issues" alt="Alexandre Paradis" />
   </a> 
