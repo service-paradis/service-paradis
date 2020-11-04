@@ -9,6 +9,12 @@
   A fullstack freelance developer and entrepreneur!
 </h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-Alexandre%20Paradis-d14836?logo=gmail&logoColor=ffffff&link=mailto:service.paradis@gmail.com" alt="Alexandre Paradis" />
+  <img src="https://img.shields.io/badge/-Alexandre%20Paradis-0077b5?logo=linkedin&link=https://linkedin.com/in/alexandre-paradis" alt="Alexandre Paradis" />
+  <img src="https://img.shields.io/badge/-Alexandre%20Paradis-fe7a16?logo=stackoverflow&logoColor=ffffff&link=https://stackoverflow.com/users/2774496/service-paradis" alt="Alexandre Paradis" />
+</p>
+
 <!-- 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=service-paradis&label=Profile%20views&color=0e75b6&style=flat" alt="Alexandre Paradis" /> 
@@ -20,20 +26,6 @@
     <!-- <img src="https://github-profile-trophy.vercel.app/?username=service-paradis&theme=onedark" alt="Alexandre Paradis" /> -->
     <img src="https://github-profile-trophy.vercel.app/?username=service-paradis&theme=onedark&title=PullRequest,Commit,Issues" alt="Alexandre Paradis" />
   </a> 
-</p>
-
-- 📫 How to reach me **service.paradis@gmail.com**
-
-<h3 align="left">
-  Connect with me:
-</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/alexandre-paradis" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Alexandre Paradis" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/2774496" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Alexandre Paradis" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">
