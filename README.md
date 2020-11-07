@@ -113,11 +113,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3169](https://github.com/simple-icons/simple-icons/issues/3169) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 💪 Opened PR [#3820](https://github.com/simple-icons/simple-icons/pull/3820) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 💪 Opened PR [#3819](https://github.com/simple-icons/simple-icons/pull/3819) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 💪 Opened PR [#3818](https://github.com/simple-icons/simple-icons/pull/3818) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#3169](https://github.com/simple-icons/simple-icons/issues/3169) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#3738](https://github.com/simple-icons/simple-icons/issues/3738) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#3169](https://github.com/simple-icons/simple-icons/issues/3169) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 💪 Opened PR [#3820](https://github.com/simple-icons/simple-icons/pull/3820) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 💪 Opened PR [#3819](https://github.com/simple-icons/simple-icons/pull/3819) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 💪 Opened PR [#3818](https://github.com/simple-icons/simple-icons/pull/3818) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 
