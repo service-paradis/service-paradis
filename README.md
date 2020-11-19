@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2839](https://github.com/firebase/firebase-tools/issues/2839) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
-2. 🗣 Commented on [#3679](https://github.com/simple-icons/simple-icons/issues/3679) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. ❗️ Opened issue [#2839](https://github.com/firebase/firebase-tools/issues/2839) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
-4. 🗣 Commented on [#3750](https://github.com/simple-icons/simple-icons/issues/3750) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#3188](https://github.com/jgthms/bulma/issues/3188) in [jgthms/bulma](https://github.com/jgthms/bulma)
+1. ❗️ Closed issue [#3881](https://github.com/simple-icons/simple-icons/issues/3881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#3881](https://github.com/simple-icons/simple-icons/issues/3881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 💪 Opened PR [#3949](https://github.com/simple-icons/simple-icons/pull/3949) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#2839](https://github.com/firebase/firebase-tools/issues/2839) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
+5. 🗣 Commented on [#3679](https://github.com/simple-icons/simple-icons/issues/3679) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
