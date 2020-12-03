@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4252](https://github.com/simple-icons/simple-icons/issues/4252) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🎉 Merged PR [#4002](https://github.com/simple-icons/simple-icons/pull/4002) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#4002](https://github.com/simple-icons/simple-icons/issues/4002) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🎉 Merged PR [#4047](https://github.com/simple-icons/simple-icons/pull/4047) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. ❗️ Opened issue [#4251](https://github.com/simple-icons/simple-icons/issues/4251) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. ❗️ Closed issue [#1](https://github.com/service-paradis/service-paradis/issues/1) in [service-paradis/service-paradis](https://github.com/service-paradis/service-paradis)
+2. ❗️ Closed issue [#2](https://github.com/service-paradis/service-paradis/issues/2) in [service-paradis/service-paradis](https://github.com/service-paradis/service-paradis)
+3. ❗️ Closed issue [#3](https://github.com/service-paradis/service-paradis/issues/3) in [service-paradis/service-paradis](https://github.com/service-paradis/service-paradis)
+4. ❗️ Opened issue [#14](https://github.com/bubkoo/potential-duplicates/issues/14) in [bubkoo/potential-duplicates](https://github.com/bubkoo/potential-duplicates)
+5. ❗️ Opened issue [#3](https://github.com/service-paradis/service-paradis/issues/3) in [service-paradis/service-paradis](https://github.com/service-paradis/service-paradis)
 <!--END_SECTION:activity-->
 
 ---
