@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/bubkoo/potential-duplicates/issues/14) in [bubkoo/potential-duplicates](https://github.com/bubkoo/potential-duplicates)
-2. 🗣 Commented on [#3942](https://github.com/simple-icons/simple-icons/issues/3942) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#4257](https://github.com/simple-icons/simple-icons/issues/4257) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#3370](https://github.com/simple-icons/simple-icons/issues/3370) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 💪 Opened PR [#4262](https://github.com/simple-icons/simple-icons/pull/4262) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#4262](https://github.com/simple-icons/simple-icons/issues/4262) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#14](https://github.com/bubkoo/potential-duplicates/issues/14) in [bubkoo/potential-duplicates](https://github.com/bubkoo/potential-duplicates)
+3. 🗣 Commented on [#3942](https://github.com/simple-icons/simple-icons/issues/3942) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#4257](https://github.com/simple-icons/simple-icons/issues/4257) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#3370](https://github.com/simple-icons/simple-icons/issues/3370) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
