@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#373](https://github.com/gilbarbara/logos/issues/373) in [gilbarbara/logos](https://github.com/gilbarbara/logos)
-2. 🗣 Commented on [#373](https://github.com/gilbarbara/logos/issues/373) in [gilbarbara/logos](https://github.com/gilbarbara/logos)
-3. 🎉 Merged PR [#4155](https://github.com/simple-icons/simple-icons/pull/4155) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#3384](https://github.com/simple-icons/simple-icons/issues/3384) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🎉 Merged PR [#4223](https://github.com/simple-icons/simple-icons/pull/4223) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#3944](https://github.com/simple-icons/simple-icons/issues/3944) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🎉 Merged PR [#3948](https://github.com/simple-icons/simple-icons/pull/3948) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🎉 Merged PR [#3945](https://github.com/simple-icons/simple-icons/pull/3945) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🎉 Merged PR [#3941](https://github.com/simple-icons/simple-icons/pull/3941) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#373](https://github.com/gilbarbara/logos/issues/373) in [gilbarbara/logos](https://github.com/gilbarbara/logos)
 <!--END_SECTION:activity-->
 
 ---
