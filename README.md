@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#58](https://github.com/srggrs/assign-one-project-github-action/issues/58) in [srggrs/assign-one-project-github-action](https://github.com/srggrs/assign-one-project-github-action)
-2. 🎉 Merged PR [#4360](https://github.com/simple-icons/simple-icons/pull/4360) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. ❗️ Closed issue [#4331](https://github.com/simple-icons/simple-icons/issues/4331) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🎉 Merged PR [#4317](https://github.com/simple-icons/simple-icons/pull/4317) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. ❗️ Closed issue [#4284](https://github.com/simple-icons/simple-icons/issues/4284) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#4128](https://github.com/simple-icons/simple-icons/issues/4128) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. ❗️ Opened issue [#58](https://github.com/srggrs/assign-one-project-github-action/issues/58) in [srggrs/assign-one-project-github-action](https://github.com/srggrs/assign-one-project-github-action)
+3. 🎉 Merged PR [#4360](https://github.com/simple-icons/simple-icons/pull/4360) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. ❗️ Closed issue [#4331](https://github.com/simple-icons/simple-icons/issues/4331) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🎉 Merged PR [#4317](https://github.com/simple-icons/simple-icons/pull/4317) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
