@@ -129,7 +129,7 @@
     <img src="https://img.shields.io/badge/-Paypal%20Me-00457c?logo=paypal&logoColor=ffffff&link=https://paypal.me/paradisalexandre" alt="Alexandre Paradis" />
   </a>
   <a href="https://github.com/sponsors/service-paradis" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/-Sponsor%20Me-fafbfc?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViIFNwb25zb3JzIGljb248L3RpdGxlPjxwYXRoIGZpbGw9InJlZCIgZD0iTTYuMzUzIDMuMzY2Yy0xLjk5NyAwLTQuMTEgMS44MzYtNC4xMSA0LjczMiAwIDMuMzkgMi4zNjEgNi41MzYgNS4wMyA4Ljk2MmEzMC43NDMgMzIuNDM3IDAgMCAwIDQuNjg2IDMuNDg3IDMwLjczNyAzMi40MyAwIDAgMCA0LjY4Ny0zLjQ4N2MyLjY2OC0yLjQyNiA1LjAzLTUuNTcxIDUuMDMtOC45NjIgMC0yLjg5Ni0yLjExNC00LjczMi00LjExLTQuNzMyLTIuMDUzIDAtMy45MDEgMS41NTUtNC41MjkgMy44NzRhMS4xMjEgMS4xODMgMCAwIDEtMi4xNTYgMGMtLjYyNy0yLjMxOS0yLjQ3NS0zLjg3NC00LjUyOC0zLjg3NHptNS42MDYgMTguNTMzbC0uNTE2IDEuMDUtLjAwMy0uMDAxLS4wMDktLjAwNS0uMDI2LS4wMTZhMTEuNDI2IDEyLjA1NSAwIDAgMS0uNDY0LS4yNjggMzMgMzQuODE4IDAgMCAxLTUuMTMzLTMuODA3QzMuMDU4IDE2LjM0OCAwIDEyLjU5MiAwIDguMDk4IDAgMy44OTYgMy4xMTggMSA2LjM1MyAxYzIuMzEzIDAgNC4zNCAxLjI2NSA1LjYwNiAzLjE4NkMxMy4yMjUgMi4yNjUgMTUuMjUyIDEgMTcuNTY1IDFjMy4yMzUgMCA2LjM1MyAyLjg5NiA2LjM1MyA3LjA5OCAwIDQuNDk1LTMuMDU3IDguMjUtNS44MDcgMTAuNzU0YTMzLjAwNyAzNC44MjYgMCAwIDEtNS41OTcgNC4wNzVsLS4wMjcuMDE2LS4wMS4wMDVoLS4wMDJsLS41MTYtMS4wNXptMCAwbC41MTYgMS4wNWExLjEyNCAxLjE4NiAwIDAgMS0xLjAzMiAwbC41MTYtMS4wNXoiLz48L3N2Zz4=&logoColor=ea4aaa" alt="Alexandre Paradis" />
+    <img src="https://img.shields.io/badge/-Sponsor%20Me-fafbfc?logo=github-sponsors&logoColor=ea4aaa" alt="Alexandre Paradis" />
   </a>
 </p>
 
