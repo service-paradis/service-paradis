@@ -126,10 +126,10 @@
 
 <p align="center">
   <a href="https://paypal.me/paradisalexandre" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/-Paypal%20Me-00457c?logo=paypal&logoColor=ffffff&link=https://paypal.me/paradisalexandre" alt="Alexandre Paradis" />
+    <img src="https://img.shields.io/badge/-Paypal%20Me-00457c?logo=paypal&link=https://paypal.me/paradisalexandre" alt="Alexandre Paradis" />
   </a>
   <a href="https://github.com/sponsors/service-paradis" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/-Sponsor%20Me-fafbfc?logo=github-sponsors&logoColor=ea4aaa" alt="Alexandre Paradis" />
+    <img src="https://img.shields.io/badge/-Sponsor%20Me-fafbfc?logo=github-sponsors&link=https://github.com/sponsors/service-paradis" alt="Alexandre Paradis" />
   </a>
 </p>
 
