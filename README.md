@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3127](https://github.com/buefy/buefy/issues/3127) in [buefy/buefy](https://github.com/buefy/buefy)
-2. 🗣 Commented on [#3127](https://github.com/buefy/buefy/issues/3127) in [buefy/buefy](https://github.com/buefy/buefy)
-3. 🗣 Commented on [#3139](https://github.com/buefy/buefy/issues/3139) in [buefy/buefy](https://github.com/buefy/buefy)
-4. 💪 Opened PR [#3143](https://github.com/buefy/buefy/pull/3143) in [buefy/buefy](https://github.com/buefy/buefy)
-5. 🗣 Commented on [#3219](https://github.com/jgthms/bulma/issues/3219) in [jgthms/bulma](https://github.com/jgthms/bulma)
+1. 🗣 Commented on [#4775](https://github.com/simple-icons/simple-icons/issues/4775) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. ❗️ Opened issue [#4775](https://github.com/simple-icons/simple-icons/issues/4775) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#3127](https://github.com/buefy/buefy/issues/3127) in [buefy/buefy](https://github.com/buefy/buefy)
+4. 🗣 Commented on [#3127](https://github.com/buefy/buefy/issues/3127) in [buefy/buefy](https://github.com/buefy/buefy)
+5. 🗣 Commented on [#3139](https://github.com/buefy/buefy/issues/3139) in [buefy/buefy](https://github.com/buefy/buefy)
 <!--END_SECTION:activity-->
 
 ---
