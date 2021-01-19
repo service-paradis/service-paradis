@@ -10,7 +10,37 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # Label to set, when potential duplicates are detected.
-          label: "potential duplicate"
+          label: potential duplicate
+          # Exclude keyworlds in title before detecting.
+          exclude: |
+            icon
+            Icon
+            icons
+            Icons
+            logo
+            Logo
+            logos
+            Logos
+            request
+            request:
+            Request
+            Request:
+            add
+            Add
+            adding
+            Adding
+            update
+            Update
+            updating
+            Updating
+            rename
+            Rename
+            renaming
+            Renaming
+            remove
+            Remove
+            removing
+            Removing
           # Get issues with state to compare. Supported state: 'all', 'closed', 'open'.
           state: all
           # If similarity is higher than this threshold([0,1]), issue will be marked as duplicate.
@@ -20,7 +50,7 @@ jobs:
           reactions: 'eyes, confused'
           # Comment to post when potential duplicates are detected.
           comment: >
-            Potential duplicates:  
+            Potential duplicates:
             {{#issues}}
               - [#{{ number }}] {{ title }} ({{ accuracy }}%)
             {{/issues}}
