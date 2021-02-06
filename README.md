@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4938](https://github.com/simple-icons/simple-icons/issues/4938) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. ❗️ Opened issue [#4937](https://github.com/simple-icons/simple-icons/issues/4937) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 💪 Opened PR [#18](https://github.com/bubkoo/potential-duplicates/pull/18) in [bubkoo/potential-duplicates](https://github.com/bubkoo/potential-duplicates)
-4. ❗️ Opened issue [#4934](https://github.com/simple-icons/simple-icons/issues/4934) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#4830](https://github.com/simple-icons/simple-icons/issues/4830) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#4941](https://github.com/simple-icons/simple-icons/issues/4941) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#4940](https://github.com/simple-icons/simple-icons/issues/4940) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. ❗️ Opened issue [#4938](https://github.com/simple-icons/simple-icons/issues/4938) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. ❗️ Opened issue [#4937](https://github.com/simple-icons/simple-icons/issues/4937) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 💪 Opened PR [#18](https://github.com/bubkoo/potential-duplicates/pull/18) in [bubkoo/potential-duplicates](https://github.com/bubkoo/potential-duplicates)
 <!--END_SECTION:activity-->
 
 ---
