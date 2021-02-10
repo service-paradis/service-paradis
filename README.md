@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4962](https://github.com/simple-icons/simple-icons/pull/4962) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. ❗️ Opened issue [#8615](https://github.com/renovatebot/renovate/issues/8615) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-3. 🗣 Commented on [#3139](https://github.com/buefy/buefy/issues/3139) in [buefy/buefy](https://github.com/buefy/buefy)
-4. 🗣 Commented on [#3186](https://github.com/buefy/buefy/issues/3186) in [buefy/buefy](https://github.com/buefy/buefy)
-5. 🗣 Commented on [#3171](https://github.com/buefy/buefy/issues/3171) in [buefy/buefy](https://github.com/buefy/buefy)
+1. 🗣 Commented on [#8615](https://github.com/renovatebot/renovate/issues/8615) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+2. 💪 Opened PR [#4962](https://github.com/simple-icons/simple-icons/pull/4962) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. ❗️ Opened issue [#8615](https://github.com/renovatebot/renovate/issues/8615) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+4. 🗣 Commented on [#3139](https://github.com/buefy/buefy/issues/3139) in [buefy/buefy](https://github.com/buefy/buefy)
+5. 🗣 Commented on [#3186](https://github.com/buefy/buefy/issues/3186) in [buefy/buefy](https://github.com/buefy/buefy)
 <!--END_SECTION:activity-->
 
 ---
