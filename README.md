@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1125](https://github.com/svgdotjs/svg.js/issues/1125) in [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)
-2. 🗣 Commented on [#4934](https://github.com/simple-icons/simple-icons/issues/4934) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. ❗️ Closed issue [#8615](https://github.com/renovatebot/renovate/issues/8615) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-4. 🗣 Commented on [#8615](https://github.com/renovatebot/renovate/issues/8615) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-5. 🗣 Commented on [#8615](https://github.com/renovatebot/renovate/issues/8615) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+1. ❗️ Opened issue [#4978](https://github.com/simple-icons/simple-icons/issues/4978) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 💪 Opened PR [#4977](https://github.com/simple-icons/simple-icons/pull/4977) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#1125](https://github.com/svgdotjs/svg.js/issues/1125) in [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js)
+4. 🗣 Commented on [#4934](https://github.com/simple-icons/simple-icons/issues/4934) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. ❗️ Closed issue [#8615](https://github.com/renovatebot/renovate/issues/8615) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
 <!--END_SECTION:activity-->
 
 ---
