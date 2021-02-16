@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3198](https://github.com/buefy/buefy/issues/3198) in [buefy/buefy](https://github.com/buefy/buefy)
-2. 🗣 Commented on [#2880](https://github.com/buefy/buefy/issues/2880) in [buefy/buefy](https://github.com/buefy/buefy)
-3. 🗣 Commented on [#2879](https://github.com/buefy/buefy/issues/2879) in [buefy/buefy](https://github.com/buefy/buefy)
-4. 💪 Opened PR [#3198](https://github.com/buefy/buefy/pull/3198) in [buefy/buefy](https://github.com/buefy/buefy)
-5. 🗣 Commented on [#3175](https://github.com/buefy/buefy/issues/3175) in [buefy/buefy](https://github.com/buefy/buefy)
+1. 💪 Opened PR [#3200](https://github.com/buefy/buefy/pull/3200) in [buefy/buefy](https://github.com/buefy/buefy)
+2. 🗣 Commented on [#3198](https://github.com/buefy/buefy/issues/3198) in [buefy/buefy](https://github.com/buefy/buefy)
+3. 🗣 Commented on [#2880](https://github.com/buefy/buefy/issues/2880) in [buefy/buefy](https://github.com/buefy/buefy)
+4. 🗣 Commented on [#2879](https://github.com/buefy/buefy/issues/2879) in [buefy/buefy](https://github.com/buefy/buefy)
+5. 💪 Opened PR [#3198](https://github.com/buefy/buefy/pull/3198) in [buefy/buefy](https://github.com/buefy/buefy)
 <!--END_SECTION:activity-->
 
 ---
