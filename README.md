@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3239](https://github.com/buefy/buefy/issues/3239) in [buefy/buefy](https://github.com/buefy/buefy)
-2. 🗣 Commented on [#3239](https://github.com/buefy/buefy/issues/3239) in [buefy/buefy](https://github.com/buefy/buefy)
-3. 🗣 Commented on [#3235](https://github.com/buefy/buefy/issues/3235) in [buefy/buefy](https://github.com/buefy/buefy)
-4. 🗣 Commented on [#5254](https://github.com/simple-icons/simple-icons/issues/5254) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🎉 Merged PR [#5275](https://github.com/simple-icons/simple-icons/pull/5275) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#2744](https://github.com/buefy/buefy/issues/2744) in [buefy/buefy](https://github.com/buefy/buefy)
+2. ❗️ Closed issue [#3239](https://github.com/buefy/buefy/issues/3239) in [buefy/buefy](https://github.com/buefy/buefy)
+3. 🗣 Commented on [#3239](https://github.com/buefy/buefy/issues/3239) in [buefy/buefy](https://github.com/buefy/buefy)
+4. 🗣 Commented on [#3235](https://github.com/buefy/buefy/issues/3235) in [buefy/buefy](https://github.com/buefy/buefy)
+5. 🗣 Commented on [#5254](https://github.com/simple-icons/simple-icons/issues/5254) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
