@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3242](https://github.com/buefy/buefy/issues/3242) in [buefy/buefy](https://github.com/buefy/buefy)
+1. 🗣 Commented on [#2744](https://github.com/buefy/buefy/issues/2744) in [buefy/buefy](https://github.com/buefy/buefy)
 2. 🗣 Commented on [#3242](https://github.com/buefy/buefy/issues/3242) in [buefy/buefy](https://github.com/buefy/buefy)
 3. 🗣 Commented on [#3242](https://github.com/buefy/buefy/issues/3242) in [buefy/buefy](https://github.com/buefy/buefy)
-4. 🗣 Commented on [#3217](https://github.com/buefy/buefy/issues/3217) in [buefy/buefy](https://github.com/buefy/buefy)
-5. 🗣 Commented on [#3223](https://github.com/buefy/buefy/issues/3223) in [buefy/buefy](https://github.com/buefy/buefy)
+4. 🗣 Commented on [#3242](https://github.com/buefy/buefy/issues/3242) in [buefy/buefy](https://github.com/buefy/buefy)
+5. 🗣 Commented on [#3217](https://github.com/buefy/buefy/issues/3217) in [buefy/buefy](https://github.com/buefy/buefy)
 <!--END_SECTION:activity-->
 
 ---
