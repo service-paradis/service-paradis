@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1787](https://github.com/mikro-orm/mikro-orm/issues/1787) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-2. 🗣 Commented on [#1787](https://github.com/mikro-orm/mikro-orm/issues/1787) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-3. ❗️ Opened issue [#1787](https://github.com/mikro-orm/mikro-orm/issues/1787) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-4. 🎉 Merged PR [#5612](https://github.com/simple-icons/simple-icons/pull/5612) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🎉 Merged PR [#4866](https://github.com/simple-icons/simple-icons/pull/4866) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#5388](https://github.com/simple-icons/simple-icons/issues/5388) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. ❗️ Opened issue [#5658](https://github.com/simple-icons/simple-icons/issues/5658) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. ❗️ Opened issue [#5657](https://github.com/simple-icons/simple-icons/issues/5657) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#5601](https://github.com/simple-icons/simple-icons/issues/5601) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. ❗️ Opened issue [#5656](https://github.com/simple-icons/simple-icons/issues/5656) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
