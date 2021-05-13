@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5684](https://github.com/simple-icons/simple-icons/pull/5684) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🎉 Merged PR [#5666](https://github.com/simple-icons/simple-icons/pull/5666) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. ❗️ Closed issue [#3394](https://github.com/simple-icons/simple-icons/issues/3394) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#5659](https://github.com/simple-icons/simple-icons/issues/5659) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 💪 Opened PR [#9976](https://github.com/renovatebot/renovate/pull/9976) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+1. 🗣 Commented on [#5381](https://github.com/simple-icons/simple-icons/issues/5381) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 💪 Opened PR [#5684](https://github.com/simple-icons/simple-icons/pull/5684) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🎉 Merged PR [#5666](https://github.com/simple-icons/simple-icons/pull/5666) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. ❗️ Closed issue [#3394](https://github.com/simple-icons/simple-icons/issues/3394) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#5659](https://github.com/simple-icons/simple-icons/issues/5659) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
