@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3417](https://github.com/firebase/firebase-tools/issues/3417) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
+1. ❗️ Closed issue [#3347](https://github.com/buefy/buefy/issues/3347) in [buefy/buefy](https://github.com/buefy/buefy)
 2. 🗣 Commented on [#3347](https://github.com/buefy/buefy/issues/3347) in [buefy/buefy](https://github.com/buefy/buefy)
-3. 🗣 Commented on [#3335](https://github.com/jgthms/bulma/issues/3335) in [jgthms/bulma](https://github.com/jgthms/bulma)
-4. 🗣 Commented on [#3336](https://github.com/jgthms/bulma/issues/3336) in [jgthms/bulma](https://github.com/jgthms/bulma)
-5. 🗣 Commented on [#3336](https://github.com/jgthms/bulma/issues/3336) in [jgthms/bulma](https://github.com/jgthms/bulma)
+3. 🗣 Commented on [#3417](https://github.com/firebase/firebase-tools/issues/3417) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
+4. 🗣 Commented on [#3347](https://github.com/buefy/buefy/issues/3347) in [buefy/buefy](https://github.com/buefy/buefy)
+5. 🗣 Commented on [#3335](https://github.com/jgthms/bulma/issues/3335) in [jgthms/bulma](https://github.com/jgthms/bulma)
 <!--END_SECTION:activity-->
 
 ---
