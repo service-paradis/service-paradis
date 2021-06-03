@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3351](https://github.com/buefy/buefy/issues/3351) in [buefy/buefy](https://github.com/buefy/buefy)
-2. ❗️ Closed issue [#3347](https://github.com/buefy/buefy/issues/3347) in [buefy/buefy](https://github.com/buefy/buefy)
-3. 🗣 Commented on [#3347](https://github.com/buefy/buefy/issues/3347) in [buefy/buefy](https://github.com/buefy/buefy)
-4. 🗣 Commented on [#3417](https://github.com/firebase/firebase-tools/issues/3417) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
-5. 🗣 Commented on [#3347](https://github.com/buefy/buefy/issues/3347) in [buefy/buefy](https://github.com/buefy/buefy)
+1. 🗣 Commented on [#5677](https://github.com/simple-icons/simple-icons/issues/5677) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#5684](https://github.com/simple-icons/simple-icons/issues/5684) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#5541](https://github.com/simple-icons/simple-icons/issues/5541) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#5463](https://github.com/simple-icons/simple-icons/issues/5463) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#3351](https://github.com/buefy/buefy/issues/3351) in [buefy/buefy](https://github.com/buefy/buefy)
 <!--END_SECTION:activity-->
 
 ---
