@@ -115,11 +115,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3336](https://github.com/jgthms/bulma/issues/3336) in [jgthms/bulma](https://github.com/jgthms/bulma)
-2. 🗣 Commented on [#5897](https://github.com/simple-icons/simple-icons/issues/5897) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. ❗️ Reopened issue [#5897](https://github.com/simple-icons/simple-icons/issues/5897) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#5303](https://github.com/simple-icons/simple-icons/issues/5303) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#3361](https://github.com/buefy/buefy/issues/3361) in [buefy/buefy](https://github.com/buefy/buefy)
+1. 🎉 Merged PR [#5864](https://github.com/simple-icons/simple-icons/pull/5864) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. ❗️ Closed issue [#2102](https://github.com/simple-icons/simple-icons/issues/2102) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#5864](https://github.com/simple-icons/simple-icons/issues/5864) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#5940](https://github.com/simple-icons/simple-icons/issues/5940) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#3336](https://github.com/jgthms/bulma/issues/3336) in [jgthms/bulma](https://github.com/jgthms/bulma)
 <!--END_SECTION:activity-->
 
 ---
