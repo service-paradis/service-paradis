@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6153](https://github.com/simple-icons/simple-icons/issues/6153) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🗣 Commented on [#6153](https://github.com/simple-icons/simple-icons/issues/6153) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#6152](https://github.com/simple-icons/simple-icons/issues/6152) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#6151](https://github.com/simple-icons/simple-icons/issues/6151) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 💪 Opened PR [#6147](https://github.com/simple-icons/simple-icons/pull/6147) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#6154](https://github.com/simple-icons/simple-icons/issues/6154) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. ❗️ Closed issue [#6153](https://github.com/simple-icons/simple-icons/issues/6153) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#6153](https://github.com/simple-icons/simple-icons/issues/6153) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#6152](https://github.com/simple-icons/simple-icons/issues/6152) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#6151](https://github.com/simple-icons/simple-icons/issues/6151) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
