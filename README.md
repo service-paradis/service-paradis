@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/bubkoo/potential-duplicates/issues/18) in [bubkoo/potential-duplicates](https://github.com/bubkoo/potential-duplicates)
-2. 🎉 Merged PR [#6218](https://github.com/simple-icons/simple-icons/pull/6218) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#6059](https://github.com/simple-icons/simple-icons/issues/6059) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#6176](https://github.com/simple-icons/simple-icons/issues/6176) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#6215](https://github.com/simple-icons/simple-icons/issues/6215) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🎉 Merged PR [#6323](https://github.com/simple-icons/simple-icons/pull/6323) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#18](https://github.com/bubkoo/potential-duplicates/issues/18) in [bubkoo/potential-duplicates](https://github.com/bubkoo/potential-duplicates)
+3. 🎉 Merged PR [#6218](https://github.com/simple-icons/simple-icons/pull/6218) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#6059](https://github.com/simple-icons/simple-icons/issues/6059) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#6176](https://github.com/simple-icons/simple-icons/issues/6176) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
