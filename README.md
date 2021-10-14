@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6748](https://github.com/vuejs/vue-cli/issues/6748) in [vuejs/vue-cli](https://github.com/vuejs/vue-cli)
-2. 🗣 Commented on [#6726](https://github.com/simple-icons/simple-icons/issues/6726) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. ❗️ Closed issue [#6729](https://github.com/simple-icons/simple-icons/issues/6729) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#6729](https://github.com/simple-icons/simple-icons/issues/6729) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. ❌ Closed PR [#6674](https://github.com/simple-icons/simple-icons/pull/6674) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#4176](https://github.com/axios/axios/issues/4176) in [axios/axios](https://github.com/axios/axios)
+2. 🗣 Commented on [#6748](https://github.com/vuejs/vue-cli/issues/6748) in [vuejs/vue-cli](https://github.com/vuejs/vue-cli)
+3. 🗣 Commented on [#6726](https://github.com/simple-icons/simple-icons/issues/6726) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. ❗️ Closed issue [#6729](https://github.com/simple-icons/simple-icons/issues/6729) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#6729](https://github.com/simple-icons/simple-icons/issues/6729) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
