@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6965](https://github.com/simple-icons/simple-icons/issues/6965) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🗣 Commented on [#595](https://github.com/vueuse/vueuse/issues/595) in [vueuse/vueuse](https://github.com/vueuse/vueuse)
-3. 🗣 Commented on [#4816](https://github.com/simple-icons/simple-icons/issues/4816) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🎉 Merged PR [#5882](https://github.com/simple-icons/simple-icons/pull/5882) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. ❗️ Closed issue [#3548](https://github.com/simple-icons/simple-icons/issues/3548) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#6979](https://github.com/simple-icons/simple-icons/issues/6979) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#6965](https://github.com/simple-icons/simple-icons/issues/6965) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#595](https://github.com/vueuse/vueuse/issues/595) in [vueuse/vueuse](https://github.com/vueuse/vueuse)
+4. 🗣 Commented on [#4816](https://github.com/simple-icons/simple-icons/issues/4816) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🎉 Merged PR [#5882](https://github.com/simple-icons/simple-icons/pull/5882) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
