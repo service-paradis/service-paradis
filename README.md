@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14239](https://github.com/renovatebot/renovate/pull/14239) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-2. 💪 Opened PR [#14134](https://github.com/renovatebot/renovate/pull/14134) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-3. 💪 Opened PR [#14122](https://github.com/renovatebot/renovate/pull/14122) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-4. 🗣 Commented on [#6979](https://github.com/simple-icons/simple-icons/issues/6979) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#6965](https://github.com/simple-icons/simple-icons/issues/6965) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 💪 Opened PR [#14345](https://github.com/renovatebot/renovate/pull/14345) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+2. 💪 Opened PR [#14239](https://github.com/renovatebot/renovate/pull/14239) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+3. 💪 Opened PR [#14134](https://github.com/renovatebot/renovate/pull/14134) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+4. 💪 Opened PR [#14122](https://github.com/renovatebot/renovate/pull/14122) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+5. 🗣 Commented on [#6979](https://github.com/simple-icons/simple-icons/issues/6979) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
