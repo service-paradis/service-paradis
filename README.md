@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14345](https://github.com/renovatebot/renovate/pull/14345) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-2. 🗣 Commented on [#14345](https://github.com/renovatebot/renovate/issues/14345) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-3. 💪 Opened PR [#14345](https://github.com/renovatebot/renovate/pull/14345) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-4. 💪 Opened PR [#14239](https://github.com/renovatebot/renovate/pull/14239) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-5. 💪 Opened PR [#14134](https://github.com/renovatebot/renovate/pull/14134) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+1. ❗️ Opened issue [#3](https://github.com/p0vidl0/nestjs-real-ip/issues/3) in [p0vidl0/nestjs-real-ip](https://github.com/p0vidl0/nestjs-real-ip)
+2. ❌ Closed PR [#14345](https://github.com/renovatebot/renovate/pull/14345) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+3. 🗣 Commented on [#14345](https://github.com/renovatebot/renovate/issues/14345) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+4. 💪 Opened PR [#14345](https://github.com/renovatebot/renovate/pull/14345) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+5. 💪 Opened PR [#14239](https://github.com/renovatebot/renovate/pull/14239) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
 <!--END_SECTION:activity-->
 
 ---
