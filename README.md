@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7374](https://github.com/simple-icons/simple-icons/issues/7374) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 💪 Opened PR [#15406](https://github.com/renovatebot/renovate/pull/15406) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-3. ❗️ Opened issue [#3](https://github.com/p0vidl0/nestjs-real-ip/issues/3) in [p0vidl0/nestjs-real-ip](https://github.com/p0vidl0/nestjs-real-ip)
-4. ❌ Closed PR [#14345](https://github.com/renovatebot/renovate/pull/14345) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-5. 🗣 Commented on [#14345](https://github.com/renovatebot/renovate/issues/14345) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+1. ❗️ Closed issue [#7165](https://github.com/simple-icons/simple-icons/issues/7165) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#7165](https://github.com/simple-icons/simple-icons/issues/7165) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. ❗️ Closed issue [#7039](https://github.com/simple-icons/simple-icons/issues/7039) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#7039](https://github.com/simple-icons/simple-icons/issues/7039) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#6881](https://github.com/simple-icons/simple-icons/issues/6881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
