@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7165](https://github.com/simple-icons/simple-icons/issues/7165) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🗣 Commented on [#7165](https://github.com/simple-icons/simple-icons/issues/7165) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. ❗️ Closed issue [#7039](https://github.com/simple-icons/simple-icons/issues/7039) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#7039](https://github.com/simple-icons/simple-icons/issues/7039) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#6881](https://github.com/simple-icons/simple-icons/issues/6881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 💪 Opened PR [#15605](https://github.com/renovatebot/renovate/pull/15605) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+2. ❗️ Closed issue [#7165](https://github.com/simple-icons/simple-icons/issues/7165) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#7165](https://github.com/simple-icons/simple-icons/issues/7165) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. ❗️ Closed issue [#7039](https://github.com/simple-icons/simple-icons/issues/7039) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#7039](https://github.com/simple-icons/simple-icons/issues/7039) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
