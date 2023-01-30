@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8282](https://github.com/simple-icons/simple-icons/issues/8282) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. ❗️ Closed issue [#8283](https://github.com/simple-icons/simple-icons/issues/8283) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. ❗️ Closed issue [#8282](https://github.com/simple-icons/simple-icons/issues/8282) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#8282](https://github.com/simple-icons/simple-icons/issues/8282) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. ❗️ Opened issue [#1342](https://github.com/firebase/firebase-functions/issues/1342) in [firebase/firebase-functions](https://github.com/firebase/firebase-functions)
+1. ❗️ Closed issue [#8287](https://github.com/simple-icons/simple-icons/issues/8287) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#8287](https://github.com/simple-icons/simple-icons/issues/8287) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#8290](https://github.com/simple-icons/simple-icons/issues/8290) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. ❗️ Closed issue [#8290](https://github.com/simple-icons/simple-icons/issues/8290) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. ❗️ Closed issue [#8292](https://github.com/simple-icons/simple-icons/issues/8292) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
