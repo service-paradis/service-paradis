@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1342](https://github.com/firebase/firebase-functions/issues/1342) in [firebase/firebase-functions](https://github.com/firebase/firebase-functions)
-2. 🗣 Commented on [#1217](https://github.com/firebase/firebase-functions/issues/1217) in [firebase/firebase-functions](https://github.com/firebase/firebase-functions)
-3. ❗️ Closed issue [#8371](https://github.com/simple-icons/simple-icons/issues/8371) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🎉 Merged PR [#8372](https://github.com/simple-icons/simple-icons/pull/8372) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#8310](https://github.com/simple-icons/simple-icons/issues/8310) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#5277](https://github.com/firebase/firebase-tools/issues/5277) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
+2. 🗣 Commented on [#1342](https://github.com/firebase/firebase-functions/issues/1342) in [firebase/firebase-functions](https://github.com/firebase/firebase-functions)
+3. 🗣 Commented on [#1217](https://github.com/firebase/firebase-functions/issues/1217) in [firebase/firebase-functions](https://github.com/firebase/firebase-functions)
+4. ❗️ Closed issue [#8371](https://github.com/simple-icons/simple-icons/issues/8371) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🎉 Merged PR [#8372](https://github.com/simple-icons/simple-icons/pull/8372) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
