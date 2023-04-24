@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3899](https://github.com/primefaces/primevue/issues/3899) in [primefaces/primevue](https://github.com/primefaces/primevue)
-2. ❗️ Opened issue [#3898](https://github.com/primefaces/primevue/issues/3898) in [primefaces/primevue](https://github.com/primefaces/primevue)
-3. ❗️ Opened issue [#3897](https://github.com/primefaces/primevue/issues/3897) in [primefaces/primevue](https://github.com/primefaces/primevue)
-4. 🎉 Merged PR [#8523](https://github.com/simple-icons/simple-icons/pull/8523) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. ❗️ Opened issue [#8562](https://github.com/simple-icons/simple-icons/issues/8562) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. ❗️ Opened issue [#3900](https://github.com/primefaces/primevue/issues/3900) in [primefaces/primevue](https://github.com/primefaces/primevue)
+2. ❗️ Opened issue [#3899](https://github.com/primefaces/primevue/issues/3899) in [primefaces/primevue](https://github.com/primefaces/primevue)
+3. ❗️ Opened issue [#3898](https://github.com/primefaces/primevue/issues/3898) in [primefaces/primevue](https://github.com/primefaces/primevue)
+4. ❗️ Opened issue [#3897](https://github.com/primefaces/primevue/issues/3897) in [primefaces/primevue](https://github.com/primefaces/primevue)
+5. 🎉 Merged PR [#8523](https://github.com/simple-icons/simple-icons/pull/8523) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
