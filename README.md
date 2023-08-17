@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9299](https://github.com/simple-icons/simple-icons/issues/9299#issuecomment-1681012684) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🔒 Closed issue [#9299](https://github.com/simple-icons/simple-icons/issues/9299) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🔒 Closed issue [#9255](https://github.com/simple-icons/simple-icons/issues/9255) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. ❌ Closed PR [#8752](https://github.com/simple-icons/simple-icons/pull/8752) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#8752](https://github.com/simple-icons/simple-icons/pull/8752#issuecomment-1678024641) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. ❌ Closed PR [#1](https://github.com/service-paradis/renovate/pull/1) in [service-paradis/renovate](https://github.com/service-paradis/renovate)
+2. 💪 Opened PR [#1](https://github.com/service-paradis/renovate/pull/1) in [service-paradis/renovate](https://github.com/service-paradis/renovate)
+3. 🗣 Commented on [#9299](https://github.com/simple-icons/simple-icons/issues/9299#issuecomment-1681012684) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🔒 Closed issue [#9299](https://github.com/simple-icons/simple-icons/issues/9299) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🔒 Closed issue [#9255](https://github.com/simple-icons/simple-icons/issues/9255) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
