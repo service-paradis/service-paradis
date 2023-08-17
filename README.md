@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/service-paradis/renovate/pull/1) in [service-paradis/renovate](https://github.com/service-paradis/renovate)
-2. 💪 Opened PR [#1](https://github.com/service-paradis/renovate/pull/1) in [service-paradis/renovate](https://github.com/service-paradis/renovate)
-3. 🗣 Commented on [#9299](https://github.com/simple-icons/simple-icons/issues/9299#issuecomment-1681012684) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🔒 Closed issue [#9299](https://github.com/simple-icons/simple-icons/issues/9299) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🔒 Closed issue [#9255](https://github.com/simple-icons/simple-icons/issues/9255) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 💪 Opened PR [#23917](https://github.com/renovatebot/renovate/pull/23917) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+2. ❌ Closed PR [#1](https://github.com/service-paradis/renovate/pull/1) in [service-paradis/renovate](https://github.com/service-paradis/renovate)
+3. 💪 Opened PR [#1](https://github.com/service-paradis/renovate/pull/1) in [service-paradis/renovate](https://github.com/service-paradis/renovate)
+4. 🗣 Commented on [#9299](https://github.com/simple-icons/simple-icons/issues/9299#issuecomment-1681012684) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🔒 Closed issue [#9299](https://github.com/simple-icons/simple-icons/issues/9299) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
