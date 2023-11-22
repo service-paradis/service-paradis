@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9528](https://github.com/simple-icons/simple-icons/pull/9528) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🎉 Merged PR [#9305](https://github.com/simple-icons/simple-icons/pull/9305) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🔒 Closed issue [#9444](https://github.com/simple-icons/simple-icons/issues/9444) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🎉 Merged PR [#9534](https://github.com/simple-icons/simple-icons/pull/9534) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🎉 Merged PR [#9488](https://github.com/simple-icons/simple-icons/pull/9488) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 💪 Opened PR [#1575](https://github.com/LawnchairLauncher/lawnicons/pull/1575) in [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons)
+2. 🎉 Merged PR [#9528](https://github.com/simple-icons/simple-icons/pull/9528) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🎉 Merged PR [#9305](https://github.com/simple-icons/simple-icons/pull/9305) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🔒 Closed issue [#9444](https://github.com/simple-icons/simple-icons/issues/9444) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🎉 Merged PR [#9534](https://github.com/simple-icons/simple-icons/pull/9534) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
