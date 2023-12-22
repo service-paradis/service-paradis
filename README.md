@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1698](https://github.com/LawnchairLauncher/lawnicons/pull/1698) in [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons)
-2. 💪 Opened PR [#1697](https://github.com/LawnchairLauncher/lawnicons/pull/1697) in [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons)
-3. 💪 Opened PR [#1695](https://github.com/LawnchairLauncher/lawnicons/pull/1695) in [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons)
-4. 💪 Opened PR [#1694](https://github.com/LawnchairLauncher/lawnicons/pull/1694) in [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons)
-5. 🗣 Commented on [#10164](https://github.com/simple-icons/simple-icons/pull/10164#issuecomment-1866218438) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#10173](https://github.com/simple-icons/simple-icons/issues/10173#issuecomment-1867662577) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🔒 Closed issue [#10173](https://github.com/simple-icons/simple-icons/issues/10173) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 💪 Opened PR [#1698](https://github.com/LawnchairLauncher/lawnicons/pull/1698) in [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons)
+4. 💪 Opened PR [#1697](https://github.com/LawnchairLauncher/lawnicons/pull/1697) in [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons)
+5. 💪 Opened PR [#1695](https://github.com/LawnchairLauncher/lawnicons/pull/1695) in [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons)
 <!--END_SECTION:activity-->
 
 ---
