@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10297](https://github.com/simple-icons/simple-icons/pull/10297) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🗣 Commented on [#8114](https://github.com/simple-icons/simple-icons/issues/8114#issuecomment-1894274935) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🔒 Closed issue [#10223](https://github.com/simple-icons/simple-icons/issues/10223) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🎉 Merged PR [#10274](https://github.com/simple-icons/simple-icons/pull/10274) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🔒 Closed issue [#7444](https://github.com/simple-icons/simple-icons/issues/7444) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🔒 Closed issue [#10217](https://github.com/simple-icons/simple-icons/issues/10217) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🎉 Merged PR [#10230](https://github.com/simple-icons/simple-icons/pull/10230) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🔒 Closed issue [#9158](https://github.com/simple-icons/simple-icons/issues/9158) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🎉 Merged PR [#9178](https://github.com/simple-icons/simple-icons/pull/9178) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#10279](https://github.com/simple-icons/simple-icons/pull/10279#issuecomment-1895748800) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
