@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10380](https://github.com/simple-icons/simple-icons/pull/10380) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🗣 Commented on [#10376](https://github.com/simple-icons/simple-icons/issues/10376#issuecomment-1916783524) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🔒 Closed issue [#10376](https://github.com/simple-icons/simple-icons/issues/10376) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 💪 Opened PR [#1796](https://github.com/LawnchairLauncher/lawnicons/pull/1796) in [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons)
-5. 🗣 Commented on [#10374](https://github.com/simple-icons/simple-icons/issues/10374#issuecomment-1914929603) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 💪 Opened PR [#10385](https://github.com/simple-icons/simple-icons/pull/10385) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 💪 Opened PR [#10380](https://github.com/simple-icons/simple-icons/pull/10380) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#10376](https://github.com/simple-icons/simple-icons/issues/10376#issuecomment-1916783524) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🔒 Closed issue [#10376](https://github.com/simple-icons/simple-icons/issues/10376) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 💪 Opened PR [#1796](https://github.com/LawnchairLauncher/lawnicons/pull/1796) in [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons)
 <!--END_SECTION:activity-->
 
 ---
