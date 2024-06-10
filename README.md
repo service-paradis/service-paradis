@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11123](https://github.com/simple-icons/simple-icons/issues/11123#issuecomment-2158199316) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🔒 Closed issue [#11123](https://github.com/simple-icons/simple-icons/issues/11123) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#11114](https://github.com/simple-icons/simple-icons/issues/11114#issuecomment-2150342761) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🔒 Closed issue [#11114](https://github.com/simple-icons/simple-icons/issues/11114) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#3734](https://github.com/firebase/firebase-tools/issues/3734#issuecomment-2141967633) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
+1. 🔒 Closed issue [#8723](https://github.com/simple-icons/simple-icons/issues/8723) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🎉 Merged PR [#10708](https://github.com/simple-icons/simple-icons/pull/10708) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#11091](https://github.com/simple-icons/simple-icons/issues/11091#issuecomment-2158218454) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#11123](https://github.com/simple-icons/simple-icons/issues/11123#issuecomment-2158199316) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🔒 Closed issue [#11123](https://github.com/simple-icons/simple-icons/issues/11123) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
