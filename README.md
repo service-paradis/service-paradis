@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/yournextstore/yournextstore/issues/47#issuecomment-2407299362) in [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
-2. 💪 Opened PR [#48](https://github.com/yournextstore/yournextstore/pull/48) in [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
-3. 🗣 Commented on [#44](https://github.com/yournextstore/yournextstore/pull/44#issuecomment-2402590709) in [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
-4. ❗ Opened issue [#47](https://github.com/yournextstore/yournextstore/issues/47) in [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
-5. 🗣 Commented on [#11966](https://github.com/simple-icons/simple-icons/issues/11966#issuecomment-2402054523) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#12045](https://github.com/simple-icons/simple-icons/issues/12045#issuecomment-2416740437) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🔒 Closed issue [#12045](https://github.com/simple-icons/simple-icons/issues/12045) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🗣 Commented on [#47](https://github.com/yournextstore/yournextstore/issues/47#issuecomment-2407299362) in [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
+4. 💪 Opened PR [#48](https://github.com/yournextstore/yournextstore/pull/48) in [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
+5. 🗣 Commented on [#44](https://github.com/yournextstore/yournextstore/pull/44#issuecomment-2402590709) in [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
 <!--END_SECTION:activity-->
 
 ---
