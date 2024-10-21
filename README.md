@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/yournextstore/yournextstore/pull/52) in [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
-2. 🗣 Commented on [#12060](https://github.com/simple-icons/simple-icons/issues/12060#issuecomment-2426581842) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🔒 Closed issue [#12060](https://github.com/simple-icons/simple-icons/issues/12060) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#12045](https://github.com/simple-icons/simple-icons/issues/12045#issuecomment-2416740437) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🔒 Closed issue [#12045](https://github.com/simple-icons/simple-icons/issues/12045) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#47](https://github.com/yournextstore/yournextstore/issues/47#issuecomment-2427027516) in [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
+2. 💪 Opened PR [#52](https://github.com/yournextstore/yournextstore/pull/52) in [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
+3. 🗣 Commented on [#12060](https://github.com/simple-icons/simple-icons/issues/12060#issuecomment-2426581842) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🔒 Closed issue [#12060](https://github.com/simple-icons/simple-icons/issues/12060) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#12045](https://github.com/simple-icons/simple-icons/issues/12045#issuecomment-2416740437) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
