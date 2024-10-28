@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7880](https://github.com/firebase/firebase-tools/issues/7880) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
-2. 🗣 Commented on [#8594](https://github.com/firebase/firebase-js-sdk/issues/8594#issuecomment-2441407743) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
-3. ❗ Opened issue [#8594](https://github.com/firebase/firebase-js-sdk/issues/8594) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
-4. 🗣 Commented on [#12086](https://github.com/simple-icons/simple-icons/issues/12086#issuecomment-2435030538) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🔒 Closed issue [#12086](https://github.com/simple-icons/simple-icons/issues/12086) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#12089](https://github.com/simple-icons/simple-icons/issues/12089#issuecomment-2441908478) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🔒 Closed issue [#12089](https://github.com/simple-icons/simple-icons/issues/12089) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. ❗ Opened issue [#7880](https://github.com/firebase/firebase-tools/issues/7880) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
+4. 🗣 Commented on [#8594](https://github.com/firebase/firebase-js-sdk/issues/8594#issuecomment-2441407743) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
+5. ❗ Opened issue [#8594](https://github.com/firebase/firebase-js-sdk/issues/8594) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
 <!--END_SECTION:activity-->
 
 ---
