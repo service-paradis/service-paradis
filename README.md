@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#269](https://github.com/FirebaseExtended/firebase-framework-tools/pull/269#issuecomment-2454691351) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
-2. ❗ Opened issue [#7895](https://github.com/firebase/firebase-tools/issues/7895) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
-3. 🗣 Commented on [#47](https://github.com/yournextstore/yournextstore/issues/47#issuecomment-2450443493) in [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
-4. 🗣 Commented on [#12089](https://github.com/simple-icons/simple-icons/issues/12089#issuecomment-2441908478) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🔒 Closed issue [#12089](https://github.com/simple-icons/simple-icons/issues/12089) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#130138](https://github.com/home-assistant/core/issues/130138#issuecomment-2466558902) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#269](https://github.com/FirebaseExtended/firebase-framework-tools/pull/269#issuecomment-2454691351) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
+3. ❗ Opened issue [#7895](https://github.com/firebase/firebase-tools/issues/7895) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
+4. 🗣 Commented on [#47](https://github.com/yournextstore/yournextstore/issues/47#issuecomment-2450443493) in [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore)
+5. 🗣 Commented on [#12089](https://github.com/simple-icons/simple-icons/issues/12089#issuecomment-2441908478) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
