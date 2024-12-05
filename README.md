@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#282](https://github.com/FirebaseExtended/firebase-framework-tools/pull/282#issuecomment-2517486612) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
-2. 💪 Opened PR [#282](https://github.com/FirebaseExtended/firebase-framework-tools/pull/282) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
-3. 🗣 Commented on [#130138](https://github.com/home-assistant/core/issues/130138#issuecomment-2473623482) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🔒 Closed issue [#130138](https://github.com/home-assistant/core/issues/130138) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🗣 Commented on [#130138](https://github.com/home-assistant/core/issues/130138#issuecomment-2468198863) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🗣 Commented on [#282](https://github.com/FirebaseExtended/firebase-framework-tools/pull/282#issuecomment-2517656329) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
+2. 🗣 Commented on [#282](https://github.com/FirebaseExtended/firebase-framework-tools/pull/282#issuecomment-2517486612) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
+3. 💪 Opened PR [#282](https://github.com/FirebaseExtended/firebase-framework-tools/pull/282) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
+4. 🗣 Commented on [#130138](https://github.com/home-assistant/core/issues/130138#issuecomment-2473623482) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🔒 Closed issue [#130138](https://github.com/home-assistant/core/issues/130138) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 
 ---
