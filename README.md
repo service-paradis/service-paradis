@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12293](https://github.com/simple-icons/simple-icons/issues/12293#issuecomment-2524021881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🔒 Closed issue [#12293](https://github.com/simple-icons/simple-icons/issues/12293) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#282](https://github.com/FirebaseExtended/firebase-framework-tools/pull/282#issuecomment-2517656329) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
-4. 🗣 Commented on [#282](https://github.com/FirebaseExtended/firebase-framework-tools/pull/282#issuecomment-2517486612) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
-5. 💪 Opened PR [#282](https://github.com/FirebaseExtended/firebase-framework-tools/pull/282) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
+1. 🗣 Commented on [#2](https://github.com/rapi3/HA-OS-Gree/issues/2#issuecomment-2531640727) in [rapi3/HA-OS-Gree](https://github.com/rapi3/HA-OS-Gree)
+2. 🗣 Commented on [#12293](https://github.com/simple-icons/simple-icons/issues/12293#issuecomment-2524021881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 🔒 Closed issue [#12293](https://github.com/simple-icons/simple-icons/issues/12293) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#282](https://github.com/FirebaseExtended/firebase-framework-tools/pull/282#issuecomment-2517656329) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
+5. 🗣 Commented on [#282](https://github.com/FirebaseExtended/firebase-framework-tools/pull/282#issuecomment-2517486612) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
 <!--END_SECTION:activity-->
 
 ---
