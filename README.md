@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12322](https://github.com/simple-icons/simple-icons/issues/12322#issuecomment-2537303595) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🗣 Commented on [#12322](https://github.com/simple-icons/simple-icons/issues/12322#issuecomment-2537287456) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#12321](https://github.com/simple-icons/simple-icons/issues/12321#issuecomment-2537283263) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#220](https://github.com/RobHofmann/HomeAssistant-GreeClimateComponent/issues/220#issuecomment-2531779910) in [RobHofmann/HomeAssistant-GreeClimateComponent](https://github.com/RobHofmann/HomeAssistant-GreeClimateComponent)
-5. 🗣 Commented on [#2](https://github.com/rapi3/HA-OS-Gree/issues/2#issuecomment-2531640727) in [rapi3/HA-OS-Gree](https://github.com/rapi3/HA-OS-Gree)
+1. 💪 Opened PR [#12370](https://github.com/simple-icons/simple-icons/pull/12370) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 💪 Opened PR [#12369](https://github.com/simple-icons/simple-icons/pull/12369) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 💪 Opened PR [#12368](https://github.com/simple-icons/simple-icons/pull/12368) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#12322](https://github.com/simple-icons/simple-icons/issues/12322#issuecomment-2537303595) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 🗣 Commented on [#12322](https://github.com/simple-icons/simple-icons/issues/12322#issuecomment-2537287456) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
