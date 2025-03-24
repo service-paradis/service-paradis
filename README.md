@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1796](https://github.com/amannn/next-intl/issues/1796#issuecomment-2730402540) in [amannn/next-intl](https://github.com/amannn/next-intl)
-2. 🗣 Commented on [#1796](https://github.com/amannn/next-intl/issues/1796#issuecomment-2729803859) in [amannn/next-intl](https://github.com/amannn/next-intl)
-3. 🗣 Commented on [#12881](https://github.com/simple-icons/simple-icons/issues/12881#issuecomment-2722164939) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. ❗ Opened issue [#12882](https://github.com/simple-icons/simple-icons/issues/12882) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. ❗ Opened issue [#12881](https://github.com/simple-icons/simple-icons/issues/12881) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#1796](https://github.com/amannn/next-intl/issues/1796#issuecomment-2747984034) in [amannn/next-intl](https://github.com/amannn/next-intl)
+2. 🗣 Commented on [#1796](https://github.com/amannn/next-intl/issues/1796#issuecomment-2747966864) in [amannn/next-intl](https://github.com/amannn/next-intl)
+3. 🗣 Commented on [#1796](https://github.com/amannn/next-intl/issues/1796#issuecomment-2730402540) in [amannn/next-intl](https://github.com/amannn/next-intl)
+4. 🗣 Commented on [#1796](https://github.com/amannn/next-intl/issues/1796#issuecomment-2729803859) in [amannn/next-intl](https://github.com/amannn/next-intl)
+5. 🗣 Commented on [#12881](https://github.com/simple-icons/simple-icons/issues/12881#issuecomment-2722164939) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
