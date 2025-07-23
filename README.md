@@ -116,7 +116,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12964](https://github.com/simple-icons/simple-icons/issues/12964) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 💪 Opened PR [#361](https://github.com/FirebaseExtended/firebase-framework-tools/pull/361) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
 2. 🔒 Closed issue [#12966](https://github.com/simple-icons/simple-icons/issues/12966) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 3. 🗣 Commented on [#1796](https://github.com/amannn/next-intl/issues/1796#issuecomment-2747984034) in [amannn/next-intl](https://github.com/amannn/next-intl)
 4. 🗣 Commented on [#1796](https://github.com/amannn/next-intl/issues/1796#issuecomment-2747966864) in [amannn/next-intl](https://github.com/amannn/next-intl)
