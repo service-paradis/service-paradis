@@ -116,7 +116,7 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13555](https://github.com/simple-icons/simple-icons/issues/13555#issuecomment-3107789431) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#8968](https://github.com/vitest-dev/vitest/issues/8968#issuecomment-3511600854) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
 2. 💪 Opened PR [#361](https://github.com/FirebaseExtended/firebase-framework-tools/pull/361) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
 3. 🗣 Commented on [#1796](https://github.com/amannn/next-intl/issues/1796#issuecomment-2747984034) in [amannn/next-intl](https://github.com/amannn/next-intl)
 4. 🗣 Commented on [#1796](https://github.com/amannn/next-intl/issues/1796#issuecomment-2747966864) in [amannn/next-intl](https://github.com/amannn/next-intl)
