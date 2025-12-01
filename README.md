@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3182](undefined) in [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons)
-2. 💪 Opened PR [#429](undefined) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
-3. 🗣 Commented on [#9014](https://github.com/vitest-dev/vitest/issues/9014#issuecomment-3541959576) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-4. 🗣 Commented on [#9014](https://github.com/vitest-dev/vitest/issues/9014#issuecomment-3522376899) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-5. 🗣 Commented on [#8968](https://github.com/vitest-dev/vitest/issues/8968#issuecomment-3511600854) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+1. 🗣 Commented on [#1353](https://github.com/lokalise/i18n-ally/issues/1353#issuecomment-3596724678) in [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally)
+2. 💪 Opened PR [#3182](undefined) in [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons)
+3. 💪 Opened PR [#429](undefined) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
+4. 🗣 Commented on [#9014](https://github.com/vitest-dev/vitest/issues/9014#issuecomment-3541959576) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+5. 🗣 Commented on [#9014](https://github.com/vitest-dev/vitest/issues/9014#issuecomment-3522376899) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
 <!--END_SECTION:activity-->
 
 ---
