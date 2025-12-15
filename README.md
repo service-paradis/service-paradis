@@ -116,11 +116,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#455](https://github.com/FirebaseExtended/firebase-framework-tools/pull/455#issuecomment-3657317965) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
-2. 🗣 Commented on [#425](https://github.com/FirebaseExtended/firebase-framework-tools/issues/425#issuecomment-3656432022) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
-3. ❌ Merged PR [#429](undefined) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
-4.  Labeled issue [#9564](https://github.com/firebase/firebase-tools/issues/9564) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
-5. ❗ Opened issue [#9564](https://github.com/firebase/firebase-tools/issues/9564) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
+1. 🗣 Commented on [#455](https://github.com/FirebaseExtended/firebase-framework-tools/pull/455#issuecomment-3657566215) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
+2. 🗣 Commented on [#455](https://github.com/FirebaseExtended/firebase-framework-tools/pull/455#issuecomment-3657317965) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
+3. 🗣 Commented on [#425](https://github.com/FirebaseExtended/firebase-framework-tools/issues/425#issuecomment-3656432022) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
+4. ❌ Merged PR [#429](undefined) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
+5.  Labeled issue [#9564](https://github.com/firebase/firebase-tools/issues/9564) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
 <!--END_SECTION:activity-->
 
 ---
