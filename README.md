@@ -120,7 +120,7 @@
 2. 🗣 Commented on [#455](https://github.com/FirebaseExtended/firebase-framework-tools/pull/455#issuecomment-3657566215) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
 3. 🗣 Commented on [#455](https://github.com/FirebaseExtended/firebase-framework-tools/pull/455#issuecomment-3657317965) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
 4. 🗣 Commented on [#425](https://github.com/FirebaseExtended/firebase-framework-tools/issues/425#issuecomment-3656432022) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
-5. ❌ Merged PR [#429](undefined) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
+5. 🎉 Merged PR [#429](https://github.com/FirebaseExtended/firebase-framework-tools/pull/429) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
 <!--END_SECTION:activity-->
 
 ---
