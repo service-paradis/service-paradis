@@ -116,8 +116,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10136](https://github.com/firebase/firebase-tools/issues/10136#issuecomment-4099813510) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
-2. 🗣 Commented on [#1](https://github.com/christianroy/node-onix/pull/1#issuecomment-3784950028) in [christianroy/node-onix](https://github.com/christianroy/node-onix)
+1. 🗣 Commented on [#91661](https://github.com/vercel/next.js/issues/91661#issuecomment-4137689309) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#10136](https://github.com/firebase/firebase-tools/issues/10136#issuecomment-4099813510) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
 3. 💪 Opened PR [#1](https://github.com/christianroy/node-onix/pull/1) in [christianroy/node-onix](https://github.com/christianroy/node-onix)
 4. 🗣 Commented on [#1082](https://github.com/opennextjs/opennextjs-cloudflare/issues/1082#issuecomment-3778196177) in [opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare)
 5. ❗ Opened issue [#471](https://github.com/FirebaseExtended/firebase-framework-tools/issues/471) in [FirebaseExtended/firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools)
